@@ -1,5 +1,5 @@
 
-# CV and Drones
+# CV and Drones 101
 
 ## Project Description
 CV and Drones is a cutting-edge project that combines computer vision (CV) techniques with drone technology to create innovative solutions for various applications. The project leverages state-of-the-art machine learning models to enable drones to autonomously navigate, detect objects, and perform complex tasks.
